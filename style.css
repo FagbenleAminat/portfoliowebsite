@@ -1,0 +1,116 @@
+body{
+   background-color:#accbf2;
+   font-family: 'Outfit', sans-serif;
+}
+.hijab{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+button{
+    width: 70px;
+    height: 20px;
+    font-size: 10px;
+color:#253d5b;;
+background-color: #accbf2;
+    /* margin-left: 10px; */
+}
+.con{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+h1{
+    /* width: 250px; */
+    color:#253d5b;
+    font-size: 12.5px;
+    /* padding: 30px;
+    font-size: 25px;
+    line-height: 24px; */
+}
+.first{
+    width: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.wrapper{
+margin-left: auto;
+margin-right: auto;
+    display: flex;
+    flex-direction: row;
+width: 400px;
+}
+.nav{
+margin: 0px;
+display: flex;
+flex-direction: column;
+}
+.header{
+    display: flex;
+    margin-bottom: 100px;
+    flex-direction: column;
+}
+ul{ width: 50px;
+    /* margin-top: 50px; */
+    padding: 0px;
+}
+li{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-color: black;
+}
+p{
+    color:#253d5b;
+    font-size: 8px;
+}
+a{
+    margin: 0px;
+
+}
+.desktop{
+    display: none;
+}
+.container{
+    margin-top: 100px;
+    /* background-color: azure; */
+    /* dextop margin-left: 50px; */
+    display: flex;
+    flex-direction: column;
+}
+.icons-desktop{
+    
+    display: none;
+    
+} 
+.icons-mobile{
+     margin-top: 5px; 
+    display: flex;
+    flex-direction: row;
+    
+}
+.and{
+    margin-left: 30px;  
+    
+}
+.to{
+    margin-left: 20px;
+}
+.connect{
+    color:#253d5b;
+    margin: 0px;
+}
+.img{
+    margin: 3px;
+}
+.empty{
+    background-color: rgb(20, 22, 22);
+    width: 70.33px;
+}
+footer{
+    margin-top: 10px;
+}
